@@ -6,7 +6,7 @@
 # catalog-version 1.01
 Name:		texlive-heuristica
 Version:	1.01
-Release:	1
+Release:	2
 Summary:	Fonts extending Utopia, with LaTeX support files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/heuristica

@@ -1,6 +1,6 @@
 Name:		texlive-heuristica
 Version:	51362
-Release:	1
+Release:	2
 Summary:	Fonts extending Utopia, with LaTeX support files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/heuristica

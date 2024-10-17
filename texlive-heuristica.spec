@@ -3,7 +3,7 @@ Version:	69649
 Release:	1
 Summary:	Fonts extending Utopia, with LaTeX support files
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/heuristica
+URL:		https://www.ctan.org/tex-archive/fonts/heuristica
 License:	OFL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/heuristica.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/heuristica.doc.r%{version}.tar.xz
